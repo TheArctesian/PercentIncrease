@@ -1,5 +1,8 @@
 use std::io;
 
+fn parse(x : String) -> i32 {
+    return x 
+}
 fn main() {
 
     let mut new = String::new();
